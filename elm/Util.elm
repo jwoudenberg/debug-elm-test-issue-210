@@ -1,6 +1,6 @@
 module Util exposing (..)
 
 
-foo : Int
-foo =
-    42
+bar : String
+bar =
+    "baz"
